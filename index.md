@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+<strong>Desafio "RocketNews"</strong> - Trilha Discover</h1>
 
-You can use the [editor on GitHub](https://github.com/eudanielhenrique/Desafio-RocketNews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+📚 <strong>Desafio proposto</strong> </br>
+Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
+</br></br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+🛠️ <strong>Tecnologias/Ferramentas utilizadas</strong>
 
-- Bulleted
-- List
+- HTML
+- CSS
+- JavaScript
+</br></br>
 
-1. Numbered
-2. List
+💻 <strong>Demonstração do projeto</strong>
 
-**Bold** and _Italic_ and `Code` text
+<h1 align="center">
+  <img src="" width="100%"/>
+</h1>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eudanielhenrique/Desafio-RocketNews/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">Feito com 🤎 por <a href="https://www.linkedin.com/in/phdanielhenrique/">Daniel Henrique</a></p>
