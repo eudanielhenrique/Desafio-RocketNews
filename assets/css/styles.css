@@ -1,0 +1,91 @@
+.column1 {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 1.8rem;
+}
+
+/* ----------------------------------------------------------------- */
+
+.column1-image {
+  width: 24rem;
+  height: 5.8rem;
+  margin-bottom: 5rem;
+}
+
+/* ----------------------------------------------------------------- */
+.conteudo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 3rem;
+}
+.conteudo h3 {
+  font-family: 'Work Sans';
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--title-color);
+}
+.conteudo h5 {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.conteudo p {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.contato{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.contato label{
+  color: var(--form-color);
+  font-weight: 700;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.contato div{
+  display: flex;
+  width: 49.8rem;
+  margin-bottom: 3rem;
+}
+
+.contato input{
+  width: 46.8rem;
+  height: 3rem;
+  color: black;
+  padding: 1rem;
+  font-size: 0.75;
+  font-family: Work Sans, sans-serif;;
+}
+
+.btn{
+  background-color: var(--bg-button-color);
+  width: 3rem;
+  height: 3rem;
+  border: none;
+  cursor: pointer;
+}
+
+.btn img{
+  width: 1.5rem; 
+  height: 1.5rem;
+}
+
+#read_news{
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--bg-button-color);
+}
+
+#read_news span{
+  color: var(--bg-button-color);
+  font-weight: 700;
+  font-size: 14px;
+}
